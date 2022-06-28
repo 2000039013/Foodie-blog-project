@@ -15,6 +15,12 @@ Azure services used: Static web app, microsoft azure portal,deployment service
 
 #Azure deployment link:- https://victorious-beach-0a12dcb10.1.azurestaticapps.net
 
+screenshots of my project(Home page): ![Screenshot (277)](https://user-images.githubusercontent.com/108077892/176146254-7b5798a6-2a27-4716-9656-5f97177ddee0.png)
+About page: ![Screenshot (278)](https://user-images.githubusercontent.com/108077892/176146715-ea23f0f7-02c7-470a-95c7-14cf8521fd03.png)
+contact page: ![Screenshot (279)](https://user-images.githubusercontent.com/108077892/176146949-5729cbbe-c766-4149-acec-325b88f52c88.png)
+others: ![Screenshot (282)](https://user-images.githubusercontent.com/108077892/176147388-fbb72786-d68b-48ee-b961-7f02168ae027.png)
+        ![Screenshot (281)](https://user-images.githubusercontent.com/108077892/176147524-fe8f85ca-3b29-4b2e-a711-f5faf40605bc.png)
+         
 
 
 
