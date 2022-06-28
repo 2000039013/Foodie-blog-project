@@ -20,7 +20,8 @@ About page: ![Screenshot (278)](https://user-images.githubusercontent.com/108077
 contact page: ![Screenshot (279)](https://user-images.githubusercontent.com/108077892/176146949-5729cbbe-c766-4149-acec-325b88f52c88.png)
 others: ![Screenshot (282)](https://user-images.githubusercontent.com/108077892/176147388-fbb72786-d68b-48ee-b961-7f02168ae027.png)
         ![Screenshot (281)](https://user-images.githubusercontent.com/108077892/176147524-fe8f85ca-3b29-4b2e-a711-f5faf40605bc.png)
-         
+azure portal deployment page: ![Screenshot (283)](https://user-images.githubusercontent.com/108077892/176148360-a112946a-2094-4f99-988b-0e0631398a57.png)
+       
 
 
 
